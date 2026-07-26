@@ -1,0 +1,15 @@
+# App Configuration
+
+APP_NAME = "CryptoScannerPro V2"
+
+VERSION = "2.0"
+
+DEFAULT_CURRENCY = "usd"
+
+TOP_COINS_LIMIT = 250
+
+MIN_MARKET_CAP = 5_000_000
+
+MIN_VOLUME = 500_000
+
+REQUEST_TIMEOUT = 20

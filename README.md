@@ -1,15 +1,21 @@
 # 🚀 CryptoScannerPro V2
 
-An AI-powered Early Pump Detection System for cryptocurrency markets.
+Professional AI-powered crypto market scanner.
 
-## Features
+## Objectives
 
-- Market Scanner
-- Pump Score
-- Liquidity Analysis
-- Risk Analysis
-- AI Token Insights
-- Watchlist
-- Telegram Alerts
+- Find early pump opportunities
+- Analyze liquidity
+- Analyze volume
+- Detect risk
+- AI scoring
+- Smart Money analysis
 
-Built with Python + Streamlit.
+## Tech Stack
+
+- Python
+- Streamlit
+- CoinGecko API
+- DEX Screener API
+- SQLite
+- Plotly
